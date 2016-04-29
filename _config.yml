@@ -1,0 +1,28 @@
+name: Focus on Automation
+favicon: null
+layout_spectrum: 0.43003163230605423
+typography_spectrum: 0.4186742417514324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7502135965041816
+  lightness: 0.19169349619187415
+  saturation: 0.21317668282426894
+  rhythmicContrast: 0.4227977271657437
+purpose: []
