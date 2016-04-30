@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is Focus on Automation.
-datePublished: '2016-04-30T08:43:59.848Z'
-dateModified: '2016-04-30T08:42:47.861Z'
+datePublished: '2016-04-30T10:47:20.731Z'
+dateModified: '2016-04-30T10:44:40.163Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-this-is-focus-on-automation.md
@@ -37,5 +37,6 @@ is friendly & easy to learn;
 is Open."
 
 For more information, [check the website][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44cdb7fe-73ed-452a-b50e-fdcc55f49e7d.jpg)
 
 [0]: https://www.python.org/
