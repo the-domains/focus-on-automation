@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Focus on Automation]]></title>
+        <description><![CDATA[Focus on Automation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 08:41:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is Focus on Automation.</p>]]></description>
+            <link>undefinedthis-is-focus-on-automation/index.html</link>
+            <guid isPermaLink="false">9f612947-ff33-4f59-9efd-22dc1187e7ed</guid>
+            <pubDate>Sat, 30 Apr 2016 08:40:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
