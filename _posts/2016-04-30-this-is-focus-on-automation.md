@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is Focus on Automation.
-datePublished: '2016-04-30T08:40:53.916Z'
-dateModified: '2016-04-30T08:40:35.347Z'
+datePublished: '2016-04-30T08:43:59.848Z'
+dateModified: '2016-04-30T08:42:47.861Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-this-is-focus-on-automation.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-this-is-focus-on-automation.md
-published: true
 url: this-is-focus-on-automation/index.html
 _type: Article
 
 ---
 This is _Focus on Automation_.
 
-Here we explore automation solutions and code for most processes, one use case at a time.
+Here we explore automation solutions and code for most processes, and how they can benefit everyone. One use case at a time.
 
 Let's start with Python, the programming language I have been using for more than 10 years now.
 
@@ -37,7 +37,5 @@ is friendly & easy to learn;
 is Open."
 
 For more information, [check the website][0].
-
-
 
 [0]: https://www.python.org/
